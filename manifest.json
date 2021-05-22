@@ -1,0 +1,38 @@
+{
+  "name": "Catatan Matematika",
+  "short_name": "Catatan Matematika",
+  "start_url": "https://www.catatanmatematika.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Materi Matematika, Pembahasan Soal Matematika UN/AKM, UTBK/SBMPTN, Olimpiade, SIMAK UI, STIS, Utul UGM, STAN, RPP-SILABUS, Soal Tes Masuk SMA, dan BANK SOAL.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-QziwJHNP4LY/YKkpsrXiT-I/AAAAAAAAKys/qTWeNEZCW5cpJnnjfh0aRGaIJev4vyaGwCLcBGAsYHQ/s0/Catatan%2BMatematika%2B48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-nPTnSgKOqGA/YKkptlSWtkI/AAAAAAAAKy4/kFRdjBOqz3cC4TAmnaPb5ocQ63xq7OEsACLcBGAsYHQ/s0/Catatan%2BMatematika%2B72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-wC1kzi2Y3pY/YKkptzIFDVI/AAAAAAAAKy8/vktZ_HFFqaQ3KpogD7LQ92SgAEQemeD_wCLcBGAsYHQ/s0/Catatan%2BMatematika%2B96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-SJcHJbanBSc/YKkpqpjpJeI/AAAAAAAAKyU/-RgxjD5rMJgRSeCbJauEyLqZOSYc0YcAwCLcBGAsYHQ/s0/Catatan%2BMatematika%2B144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-RbBer-ttfUg/YKkpqmXSXzI/AAAAAAAAKyQ/mCJ52dfWAhEriF-OYL7MVW_nsdO0pxCGwCLcBGAsYHQ/s0/Catatan%2BMatematika%2B168x168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-259lV85EW84/YKkpr4o4FUI/AAAAAAAAKyg/xAzeryKP_lIjXTT6TduZxaj-rLHrqEF2wCLcBGAsYHQ/s0/Catatan%2BMatematika%2B192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-DbU-26n_YoA/YKkptDfhySI/AAAAAAAAKyw/Me2wfMdi3DQ8AYo4XVNppODAFKQ-bNbfgCLcBGAsYHQ/s0/Catatan%2BMatematika%2B512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
